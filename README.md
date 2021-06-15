@@ -1,6 +1,6 @@
 # HRM
-import database
-run project
-user: admin
+#import database
+#run project
+#user: admin
 pass: admin
-select chek admin
+#select chek admin
