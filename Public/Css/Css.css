@@ -1,0 +1,94 @@
+.modal .modal-dialog {
+    max-width: 600px !important;
+}
+.col-md-6 .form-group{
+    height: 90px !important;
+}
+tbody img{
+    width: 80px !important;
+    height: 100px !important;
+}
+.bg-warning, .bg-warning>a{
+    color: white !important;
+}
+ul.pagination li span:hover{
+    cursor:context-menu !important;
+}
+
+.modal-content.fix{
+    box-shadow: none !important;
+    background-color: transparent !important;
+    border: 0;
+}
+.login-box
+{
+    margin: auto;
+}
+.user.show{
+    display:block !important; 
+}
+.user{
+    width:250px !important;
+    height: auto !important; 
+    background:#4f5962 !important;
+    right:0 !important; 
+    top:55px !important; 
+    position:absolute !important;
+    color: white !important;
+    display: none;
+}
+.user .head
+{
+    margin: 10px 0;
+    text-align: center !important;
+}
+.user .foot{
+    background-color: teal; 
+    display:flex !important; 
+    width:100% !important;
+}
+.user .foot .right,.user .foot .left{
+    flex:1 !important; width:50% !important;
+    padding: 10px !important;
+    height: auto;
+    text-align: center !important;
+}
+.user .foot div:hover{
+    background-color: turquoise;
+    cursor: default;
+}
+#set{
+    cursor: pointer;
+}
+#tab-account img{
+    width: 50px !important;
+    height: 50px !important;
+    border-radius: 50% !important;
+}
+.font{
+    font-weight: bold !important;
+}
+.dayoff{
+    background-color: gray !important;
+}
+#tab2 {
+    empty-cells: show;
+    border:1px solid #dee2e6 !important;
+}
+.head{
+    font-weight: bold !important;
+}
+#tab2 td,
+#tab2 tr,
+#tab2 th {
+    min-width: 2em !important;
+    min-height: 2em !important;
+    border: 1px solid #dee2e6 !important;
+}
+.text-center img{
+    transition: ease-in-out 0.3s;
+    cursor: pointer;
+}
+.text-center img:hover{
+    opacity: .8 !important;
+}
