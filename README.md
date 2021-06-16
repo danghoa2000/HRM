@@ -1,7 +1,7 @@
 # HRM
 #import database
 #run project
-#user: admin
+#user: admin , 
 pass: admin
 #select chek admin
 ![image](https://user-images.githubusercontent.com/77679552/122089184-b5df6280-ce30-11eb-9697-11d2fbd3fa9c.png)
